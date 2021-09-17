@@ -18,23 +18,23 @@ Neste repositório irei armazenar meus avanços no estudo do livro "Cangaceiro J
 - [X]	A	sintaxe	get
 - [X]	Objetos	imutáveis
 - [X]	A	instância	é	imutável	mesmo?
-- [X]	Programação	defensiva
-- [X]	Menos	verbosidade	no	constructor	com	Object.assign
-- [X]	Atalho	para	propriedades	de	objetos	literais
-- [X]	As	surpresas	de	declarações	com	var
-- [X]	Declaração	de	variáveis	com	let
-- [X]	Temporal	Dead	Zone
+- [x]	Programação	defensiva
+- [x]	Menos	verbosidade	no	constructor	com	Object.assign
+- [x]	Atalho	para	propriedades	de	objetos	literais
+- [x]	As	surpresas	de	declarações	com	var
+- [x]	Declaração	de	variáveis	com	let
+- [x]	Temporal	Dead	Zone
   
 #### 3	No	cangaço,	é	ação	para	todo	lado
-- [X]	O	papel	de	um	controlador
-- [X]	A	classe	NegociacaoController
-- [X]	Associando	métodos	do	controller	às	ações	do	usuário
-- [X]	Evitando	percorrer	desnecessariamente	o	DOM
-- [X]	Criando	uma	instância	de	Negociação
-- [X]	Criando	um	objeto	Date a partir da entrada do usuário
-- [X]	Um	desafio	com	datas
-- [X]	Resolvendo	um	problema	com	o	paradigma	funcional
-- [X]	Arrow	functions:	deixando	o	código	ainda	menos	verboso
+- [ ]	O	papel	de	um	controlador
+- [ ]	A	classe	NegociacaoController
+- [ ]	Associando	métodos	do	controller	às	ações	do	usuário
+- [ ]	Evitando	percorrer	desnecessariamente	o	DOM
+- [ ]	Criando	uma	instância	de	Negociação
+- [ ]	Criando	um	objeto	Date a partir da entrada do usuário
+- [ ]	Um	desafio	com	datas
+- [ ]	Resolvendo	um	problema	com	o	paradigma	funcional
+- [ ]	Arrow	functions:	deixando	o	código	ainda	menos	verboso
   
 #### 4	Dois	pesos,	duas	medidas?
 - [ ]	Isolando	a	responsabilidade	de	conversão	de	datas
