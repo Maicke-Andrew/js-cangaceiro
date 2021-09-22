@@ -26,15 +26,15 @@ Neste repositório irei armazenar meus avanços no estudo do livro "Cangaceiro J
 - [x]	Temporal	Dead	Zone
   
 #### 3	No	cangaço,	é	ação	para	todo	lado
-- [ ]	O	papel	de	um	controlador
-- [ ]	A	classe	NegociacaoController
-- [ ]	Associando	métodos	do	controller	às	ações	do	usuário
-- [ ]	Evitando	percorrer	desnecessariamente	o	DOM
-- [ ]	Criando	uma	instância	de	Negociação
-- [ ]	Criando	um	objeto	Date a partir da entrada do usuário
-- [ ]	Um	desafio	com	datas
-- [ ]	Resolvendo	um	problema	com	o	paradigma	funcional
-- [ ]	Arrow	functions:	deixando	o	código	ainda	menos	verboso
+- [x]	O	papel	de	um	controlador
+- [x]	A	classe	NegociacaoController
+- [x]	Associando	métodos	do	controller	às	ações	do	usuário
+- [x]	Evitando	percorrer	desnecessariamente	o	DOM
+- [x]	Criando	uma	instância	de	Negociação
+- [x]	Criando	um	objeto	Date a partir da entrada do usuário
+- [x]	Um	desafio	com	datas
+- [x]	Resolvendo	um	problema	com	o	paradigma	funcional
+- [x]	Arrow	functions:	deixando	o	código	ainda	menos	verboso
   
 #### 4	Dois	pesos,	duas	medidas?
 - [ ]	Isolando	a	responsabilidade	de	conversão	de	datas
